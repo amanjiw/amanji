@@ -6,7 +6,6 @@ export const tailwindColors: { [key: string]: string } = {
 	white: "#F9F9F9",
 	primary: "#00ADB5",
 	secondary: "#343840",
-	"secondary-content": "#FFFFFF",
 	base: "#222831",
 };
 
