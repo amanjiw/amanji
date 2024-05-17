@@ -7,6 +7,7 @@ export const tailwindColors: { [key: string]: string } = {
 	primary: "#00ADB5",
 	secondary: "#343840",
 	base: "#222831",
+	"base-10": "hsla(216, 18%, 16%, 0.632)",
 };
 
 const config: Config = {

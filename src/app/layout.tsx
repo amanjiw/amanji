@@ -24,7 +24,7 @@ export default function RootLayout({
 			<Head>
 				<title>Amanji</title>
 			</Head>
-			<body className={`bg-base text-white ${poppins.className}`}>
+			<body className={`bg-base text-white px-24  ${poppins.className}`}>
 				<Header />
 				{children}
 			</body>
