@@ -3,7 +3,7 @@ import React from "react";
 
 const HeroSection = () => {
 	return (
-		<section className="w-full pt-[123px] flex justify-center  gap-12">
+		<section className=" h-screen w-full pt-[123px] flex justify-center  gap-12">
 			<div className="uppercase font-bold flex flex-col gap-36 ">
 				<div className="flex">
 					{" "}
@@ -16,11 +16,11 @@ const HeroSection = () => {
 						/>
 					</div>
 					<div className="">
-						<div className="text-[96px]">
+						<div className="text-[96px] leading-[100px]">
 							<p className="">front end</p>
 							<p className="text-primary ms-32 ">enginner</p>
 						</div>
-						<div className="btns flex  gap-5 ps-10 mt-2">
+						<div className="btns flex  gap-5 ps-10 mt-24">
 							<button className="bg-primary py-2 px-4 rounded-full">
 								Hire me
 							</button>

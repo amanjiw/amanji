@@ -9,7 +9,7 @@ const Header = () => {
 				</li>
 				<li className="hover:text-primary cursor-pointer">home</li>
 				<li className="hover:text-primary cursor-pointer">about me</li>
-				<li className="hover:text-primary cursor-pointer">contact</li>
+				<li className="hovez`r:text-primary cursor-pointer">contact</li>
 			</ul>
 		</div>
 	);
